@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lionelsiduna
+- 👋 Hi
 - 👀 I’m interested in Maths
 - 🌱 I’m currently learning Go
 - 💞️ I’m looking to collaborate on Solidity
